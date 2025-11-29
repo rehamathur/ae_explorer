@@ -1,0 +1,10 @@
+indication_raw,indication_group,notes,confidence
+Non-alcoholic fatty liver disease (NAFLD),NAFLD/NASH,Grouped NAFLD with NASH for cross-trial analysis,high
+Obesity,Obesity,,high
+Overweight or Obesity,Obesity,Collapsed overweight into obesity,high
+Overweight or obesity,Obesity,Collapsed overweight into obesity,high
+Type 2 Diabetes,Type 2 diabetes,,high
+Type 2 Diabetes Mellitus,Type 2 diabetes,,high
+Type 2 Diabetes and Cardiovascular Disease,Type 2 diabetes with cardiovascular disease,,high
+Weight management in overweight or obese adults without diabetes,Obesity without diabetes,,high
+type 2 diabetes,Type 2 diabetes,,high

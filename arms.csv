@@ -1,0 +1,56 @@
+trial_id,arm_label,arm_role,drug_name,phase,indication
+NCT01272219,Liraglutide,treatment,Liraglutide,Not specified,Weight management in overweight or obese adults without diabetes
+NCT01272219,Placebo,control,Liraglutide,Not specified,Weight management in overweight or obese adults without diabetes
+NCT03495102,DU 1.5 mg,treatment,Dulaglutide,Phase 3,Type 2 Diabetes
+NCT03495102,DU 3.0 mg,treatment,Dulaglutide,Phase 3,Type 2 Diabetes
+NCT03495102,DU 4.5 mg,treatment,Dulaglutide,Phase 3,Type 2 Diabetes
+NCT03548935,Semaglutide,treatment,Semaglutide,Phase 3,Overweight or Obesity
+NCT03548935,Placebo,control,Semaglutide,Phase 3,Overweight or Obesity
+NCT00849017,Placebo,control,albiglutide,Phase 3,Type 2 Diabetes Mellitus
+NCT00849017,Albiglutide 30 mg weekly,treatment,albiglutide,Phase 3,Type 2 Diabetes Mellitus
+NCT00849017,Albiglutide 50 mg weekly,treatment,albiglutide,Phase 3,Type 2 Diabetes Mellitus
+NCT05567796,Cagrilintide-Semaglutide,treatment,Cagrilintide-Semaglutide,3a,Overweight or Obesity
+NCT05567796,Semaglutide,treatment,Cagrilintide-Semaglutide,3a,Overweight or Obesity
+NCT05567796,Cagrilintide,treatment,Cagrilintide-Semaglutide,3a,Overweight or Obesity
+NCT05567796,Placebo,control,Cagrilintide-Semaglutide,3a,Overweight or Obesity
+NCT04707469,Oral semaglutide 14 mg group,treatment,oral semaglutide,3b,type 2 diabetes
+NCT04707469,Oral semaglutide 25 mg group,treatment,oral semaglutide,3b,type 2 diabetes
+NCT04707469,Oral semaglutide 50 mg group,treatment,oral semaglutide,3b,type 2 diabetes
+Exenatide (Exendin-4)_7,Placebo,control,Exenatide (Exendin-4),Phase III,Type 2 Diabetes
+Exenatide (Exendin-4)_7,5-µg exenatide,treatment,Exenatide (Exendin-4),Phase III,Type 2 Diabetes
+Exenatide (Exendin-4)_7,10-µg exenatide,treatment,Exenatide (Exendin-4),Phase III,Type 2 Diabetes
+NCT04944992,Efinopegdutide,treatment,Efinopegdutide,IIa,Non-alcoholic fatty liver disease (NAFLD)
+NCT00688701,Placebo combined,control,Lixisenatide,Phase III,Type 2 Diabetes
+NCT00688701,Lixisenatide 2-step,treatment,Lixisenatide,Phase III,Type 2 Diabetes
+NCT00688701,Lixisenatide 1-step,treatment,Lixisenatide,Phase III,Type 2 Diabetes
+NCT00308139,Exenatide QW,treatment,Exenatide,Not specified,Type 2 Diabetes
+NCT00308139,Exenatide BID -> Exenatide QW,treatment,Exenatide,Not specified,Type 2 Diabetes
+NCT05669599,140 mg Every 4 Wk,treatment,Maridebart Cafraglutide,Phase 2,Obesity
+NCT05669599,280 mg Every 4 Wk,treatment,Maridebart Cafraglutide,Phase 2,Obesity
+NCT05669599,420 mg Every 4 Wk,treatment,Maridebart Cafraglutide,Phase 2,Obesity
+NCT05669599,420 mg Every 8 Wk,treatment,Maridebart Cafraglutide,Phase 2,Obesity
+NCT05669599,"420 mg Every 4 Wk, with 4-Wk DE",treatment,Maridebart Cafraglutide,Phase 2,Obesity
+NCT05669599,"420 mg Every 4 Wk, with 12-Wk DE",treatment,Maridebart Cafraglutide,Phase 2,Obesity
+NCT05669599,Placebo,control,Maridebart Cafraglutide,Phase 2,Obesity
+NCT00381342,Exenatide 5 μg,treatment,Exenatide,Not specified,Type 2 Diabetes
+NCT00381342,Exenatide 10 μg,treatment,Exenatide,Not specified,Type 2 Diabetes
+NCT00381342,Placebo,control,Exenatide,Not specified,Type 2 Diabetes
+NCT02465515,Albiglutide,treatment,Albiglutide,Phase 3,Type 2 Diabetes and Cardiovascular Disease
+NCT02465515,Placebo,control,Albiglutide,Phase 3,Type 2 Diabetes and Cardiovascular Disease
+NCT04184622,"Tirzepatide, 5 mg",treatment,Tirzepatide,Phase 3,Obesity
+NCT04184622,"Tirzepatide, 10 mg",treatment,Tirzepatide,Phase 3,Obesity
+NCT04184622,"Tirzepatide, 15 mg",treatment,Tirzepatide,Phase 3,Obesity
+NCT04184622,Placebo,control,Tirzepatide,Phase 3,Obesity
+Exenatide (Byetta)_15,Placebo,control,Exenatide (Byetta),Phase III,Type 2 Diabetes Mellitus
+Exenatide (Byetta)_15,Exenatide,treatment,Exenatide (Byetta),Phase III,Type 2 Diabetes Mellitus
+NCT00707031,Lixisenatide 20 µg QD,treatment,Lixisenatide,Phase III,Type 2 Diabetes
+NCT00707031,Exenatide 10 µg BID,control,Lixisenatide,Phase III,Type 2 Diabetes
+NCT05035095,Oral semaglutide 50 mg,treatment,Oral semaglutide,Phase 3,Overweight or obesity
+NCT05035095,Placebo,control,Oral semaglutide,Phase 3,Overweight or obesity
+NCT04881760,Placebo Group,control,Retatrutide,Phase 2,Obesity
+NCT04881760,1 mg,treatment,Retatrutide,Phase 2,Obesity
+NCT04881760,"4 mg (ID, 2 mg)",treatment,Retatrutide,Phase 2,Obesity
+NCT04881760,"4 mg (ID, 4 mg)",treatment,Retatrutide,Phase 2,Obesity
+NCT04881760,"8 mg (ID, 2 mg)",treatment,Retatrutide,Phase 2,Obesity
+NCT04881760,"8 mg (ID, 4 mg)",treatment,Retatrutide,Phase 2,Obesity
+NCT04881760,"12 mg (ID, 2 mg)",treatment,Retatrutide,Phase 2,Obesity
