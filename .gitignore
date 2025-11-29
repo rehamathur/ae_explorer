@@ -36,3 +36,7 @@ Thumbs.db
 remove_secrets.sh
 remove_secrets_from_history.py
 
+# Backup files
+*.backup*
+* copy.*
+

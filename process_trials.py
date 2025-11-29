@@ -314,6 +314,12 @@ def parse_json_response(response_content: str) -> List[dict]:
                     result = value
                     break
     
+    # If result is still a dict (not a list) after all unwrapping attempts,
+    # it might be a single mapping object that OpenAI returned directly
+    # In this case, wrap it in a list since the prompts always ask for a list
+    if isinstance(result, dict):
+        result = [result]
+    
     # Ensure result is a list
     if not isinstance(result, list):
         raise ValueError(f"Expected a list but got {type(result)}: {result}")

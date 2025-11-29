@@ -177,8 +177,8 @@ NCT03548935,Polycystic ovarian syndrome,Polycystic ovarian syndrome — no./tota
 NCT03548935,Polycystic ovarian syndrome,Polycystic ovarian syndrome — no./total no. (%)††,Coexisting conditions at the time of screening,categorical,,Placebo,control,498,34,6.8,0.0,0.0,34/498 (6.8)
 NCT03548935,Coronary artery disease,Coronary artery disease — no. (%),Coexisting conditions at the time of screening,categorical,,Semaglutide,treatment,1306,32,2.5,0.0,0.0,32 (2.5)
 NCT03548935,Coronary artery disease,Coronary artery disease — no. (%),Coexisting conditions at the time of screening,categorical,,Placebo,control,655,17,2.6,0.0,0.0,17 (2.6)
-NCT03548935,No. of coexisting conditions at screening,None,No. of coexisting conditions at screening,categorical,,Semaglutide,treatment,1306,328,25.1,0.0,0.0,328 (25.1)
-NCT03548935,No. of coexisting conditions at screening,None,No. of coexisting conditions at screening,categorical,,Placebo,control,655,163,24.9,0.0,0.0,163 (24.9)
+NCT03548935,No. of coexisting conditions at screening,,No. of coexisting conditions at screening,categorical,,Semaglutide,treatment,1306,328,25.1,0.0,0.0,328 (25.1)
+NCT03548935,No. of coexisting conditions at screening,,No. of coexisting conditions at screening,categorical,,Placebo,control,655,163,24.9,0.0,0.0,163 (24.9)
 NCT03548935,No. of coexisting conditions at screening,1,No. of coexisting conditions at screening,categorical,,Semaglutide,treatment,1306,337,25.8,0.0,0.0,337 (25.8)
 NCT03548935,No. of coexisting conditions at screening,1,No. of coexisting conditions at screening,categorical,,Placebo,control,655,187,28.5,0.0,0.0,187 (28.5)
 NCT03548935,No. of coexisting conditions at screening,2,No. of coexisting conditions at screening,categorical,,Semaglutide,treatment,1306,298,22.8,0.0,0.0,298 (22.8)
@@ -920,8 +920,8 @@ NCT05035095,Number of comorbidities at screening,Two,Number of comorbidities at 
 NCT05035095,Number of comorbidities at screening,Two,Number of comorbidities at screening,categorical,,Placebo,control,333,87,26.0,0.0,0.0,87/333 (26%)
 NCT05035095,Number of comorbidities at screening,One,Number of comorbidities at screening,categorical,,Oral semaglutide 50 mg,treatment,334,96,29.0,0.0,0.0,96/334 (29%)
 NCT05035095,Number of comorbidities at screening,One,Number of comorbidities at screening,categorical,,Placebo,control,333,100,30.0,0.0,0.0,100/333 (30%)
-NCT05035095,Number of comorbidities at screening,None,Number of comorbidities at screening,categorical,,Oral semaglutide 50 mg,treatment,334,84,25.0,0.0,0.0,84/334 (25%)
-NCT05035095,Number of comorbidities at screening,None,Number of comorbidities at screening,categorical,,Placebo,control,333,73,22.0,0.0,0.0,73/333 (22%)
+NCT05035095,Number of comorbidities at screening,,Number of comorbidities at screening,categorical,,Oral semaglutide 50 mg,treatment,334,84,25.0,0.0,0.0,84/334 (25%)
+NCT05035095,Number of comorbidities at screening,,Number of comorbidities at screening,categorical,,Placebo,control,333,73,22.0,0.0,0.0,73/333 (22%)
 NCT04881760,Age,Age-yr,,continuous,years,Placebo Group,control,70,0,0.0,48.0,12.5,48.0±12.5
 NCT04881760,Age,Age-yr,,continuous,years,1 mg,treatment,69,0,0.0,50.6,13.3,50.6±13.3
 NCT04881760,Age,Age-yr,,continuous,years,"4 mg (ID, 2 mg)",treatment,33,0,0.0,50.8,11.9,50.8±11.9
@@ -1062,3 +1062,79 @@ NCT04881760,Dyslipidemia,Dyslipidemia no. (%),Dyslipidemia,categorical,,"4 mg (I
 NCT04881760,Dyslipidemia,Dyslipidemia no. (%),Dyslipidemia,categorical,,"8 mg (ID, 2 mg)",treatment,35,11,31.0,0.0,0.0,11 (31)
 NCT04881760,Dyslipidemia,Dyslipidemia no. (%),Dyslipidemia,categorical,,"8 mg (ID, 4 mg)",treatment,35,9,26.0,0.0,0.0,9 (26)
 NCT04881760,Dyslipidemia,Dyslipidemia no. (%),Dyslipidemia,categorical,,"12 mg (ID, 2 mg)",treatment,62,19,31.0,0.0,0.0,19 (31)
+NCT03496298,Age,Age — yr,,continuous,years,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,64.6,8.2,64.6±8.2
+NCT03496298,Age,Age — yr,,continuous,years,Placebo,control,1359,0,0.0,64.4,8.3,64.4±8.3
+NCT03496298,Female sex,Female sex — no. (%),,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,925,34.0,0.0,0.0,925 (34.0)
+NCT03496298,Female sex,Female sex — no. (%),,categorical,,Placebo,control,1359,419,30.8,0.0,0.0,419 (30.8)
+NCT03496298,Geographic region,Canada and United States,Geographic region,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,728,26.8,0.0,0.0,728 (26.8)
+NCT03496298,Geographic region,Canada and United States,Geographic region,categorical,,Placebo,control,1359,351,25.8,0.0,0.0,351 (25.8)
+NCT03496298,Geographic region,Mexico and Central and South America,Geographic region,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,605,22.3,0.0,0.0,605 (22.3)
+NCT03496298,Geographic region,Mexico and Central and South America,Geographic region,categorical,,Placebo,control,1359,319,23.5,0.0,0.0,319 (23.5)
+NCT03496298,Geographic region,Europe,Geographic region,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,862,31.7,0.0,0.0,862 (31.7)
+NCT03496298,Geographic region,Europe,Geographic region,categorical,,Placebo,control,1359,423,31.1,0.0,0.0,423 (31.1)
+NCT03496298,Geographic region,Other,Geographic region,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,522,19.2,0.0,0.0,522 (19.2)
+NCT03496298,Geographic region,Other,Geographic region,categorical,,Placebo,control,1359,266,19.6,0.0,0.0,266 (19.6)
+NCT03496298,White race,White race — no. (%)†,,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,2372,87.3,0.0,0.0,2372 (87.3)
+NCT03496298,White race,White race — no. (%)†,,categorical,,Placebo,control,1359,1162,85.5,0.0,0.0,1162 (85.5)
+NCT03496298,Duration of diabetes,Duration of diabetes — yr,,continuous,years,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,15.6,8.8,15.6±8.8
+NCT03496298,Duration of diabetes,Duration of diabetes — yr,,continuous,years,Placebo,control,1359,0,0.0,15.1,8.7,15.1±8.7
+NCT03496298,Current use of tobacco,Current use of tobacco — no. (%),,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,427,15.7,0.0,0.0,427 (15.7)
+NCT03496298,Current use of tobacco,Current use of tobacco — no. (%),,categorical,,Placebo,control,1359,206,15.2,0.0,0.0,206 (15.2)
+NCT03496298,History of cardiovascular disease,History of cardiovascular disease — no. (%)‡,,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,2420,89.1,0.0,0.0,2420 (89.1)
+NCT03496298,History of cardiovascular disease,History of cardiovascular disease — no. (%)‡,,categorical,,Placebo,control,1359,1230,90.5,0.0,0.0,1230 (90.5)
+NCT03496298,Current kidney disease,Current kidney disease — no. (%)§,,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,863,31.8,0.0,0.0,863 (31.8)
+NCT03496298,Current kidney disease,Current kidney disease — no. (%)§,,categorical,,Placebo,control,1359,424,31.2,0.0,0.0,424 (31.2)
+NCT03496298,History of cardiovascular disease and current kidney disease,History of cardiovascular disease and current kidney disease — no. (%),,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,585,21.5,0.0,0.0,585 (21.5)
+NCT03496298,History of cardiovascular disease and current kidney disease,History of cardiovascular disease and current kidney disease — no. (%),,categorical,,Placebo,control,1359,303,22.3,0.0,0.0,303 (22.3)
+NCT03496298,History of heart failure,History of heart failure — no. (%),,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,487,17.9,0.0,0.0,487 (17.9)
+NCT03496298,History of heart failure,History of heart failure — no. (%),,categorical,,Placebo,control,1359,250,18.4,0.0,0.0,250 (18.4)
+NCT03496298,History of hypertension,History of hypertension — no. (%),,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,2484,91.4,0.0,0.0,2484 (91.4)
+NCT03496298,History of hypertension,History of hypertension — no. (%),,categorical,,Placebo,control,1359,1238,91.1,0.0,0.0,1238 (91.1)
+NCT03496298,History of diabetic retinopathy,History of diabetic retinopathy — no. (%)¶,,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,912,33.6,0.0,0.0,912 (33.6)
+NCT03496298,History of diabetic retinopathy,History of diabetic retinopathy — no. (%)¶,,categorical,,Placebo,control,1359,430,31.6,0.0,0.0,430 (31.6)
+NCT03496298,Albuminuria,Albuminuria — no. (%)‖,,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,1319,48.5,0.0,0.0,1319 (48.5)
+NCT03496298,Albuminuria,Albuminuria — no. (%)‖,,categorical,,Placebo,control,1359,658,48.4,0.0,0.0,658 (48.4)
+NCT03496298,Body-mass index,Body-mass index**,,continuous,,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,32.9,6.2,32.9±6.2
+NCT03496298,Body-mass index,Body-mass index**,,continuous,,Placebo,control,1359,0,0.0,32.4,6.0,32.4±6.0
+NCT03496298,Heart rate,Heart rate — beats/min,,continuous,beats/min,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,72.8,10.6,72.8±10.6
+NCT03496298,Heart rate,Heart rate — beats/min,,continuous,beats/min,Placebo,control,1359,0,0.0,72.8,10.7,72.8±10.7
+NCT03496298,Systolic blood pressure,Systolic blood pressure — mm Hg,,continuous,mm Hg,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,135.1,15.5,135.1±15.5
+NCT03496298,Systolic blood pressure,Systolic blood pressure — mm Hg,,continuous,mm Hg,Placebo,control,1359,0,0.0,134.4,15.6,134.4±15.6
+NCT03496298,Diastolic blood pressure,Diastolic blood pressure — mm Hg,,continuous,mm Hg,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,76.8,9.7,76.8±9.7
+NCT03496298,Diastolic blood pressure,Diastolic blood pressure — mm Hg,,continuous,mm Hg,Placebo,control,1359,0,0.0,76.6,9.8,76.6±9.8
+NCT03496298,Glycated hemoglobin level,Glycated hemoglobin level — %,,continuous,%,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,8.9,1.46,8.90±1.46
+NCT03496298,Glycated hemoglobin level,Glycated hemoglobin level — %,,continuous,%,Placebo,control,1359,0,0.0,8.94,1.52,8.94±1.52
+NCT03496298,eGFR,eGFR — ml/min/1.73 m2,,continuous,ml/min/1.73 m2,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,72.2,21.9,72.2 (21.9)
+NCT03496298,eGFR,eGFR — ml/min/1.73 m2,,continuous,ml/min/1.73 m2,Placebo,control,1359,0,0.0,72.9,23.3,72.9 (23.3)
+NCT03496298,Median albumin-to-creatinine ratio,Median albumin-to-creatinine ratio (IQR)††,,continuous,mg/g,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,0.0,0.0,28.3 (8.9–119.5)
+NCT03496298,Median albumin-to-creatinine ratio,Median albumin-to-creatinine ratio (IQR)††,,continuous,mg/g,Placebo,control,1359,0,0.0,0.0,0.0,28.3 (9.7–106.7)
+NCT03496298,Total cholesterol,Total cholesterol,Cholesterol level,continuous,mmol/liter,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,4.21,1.24,4.21±1.24
+NCT03496298,Total cholesterol,Total cholesterol,Cholesterol level,continuous,mmol/liter,Placebo,control,1359,0,0.0,4.21,1.22,4.21±1.22
+NCT03496298,LDL cholesterol,LDL cholesterol,Cholesterol level,continuous,mmol/liter,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,2.07,0.98,2.07±0.98
+NCT03496298,LDL cholesterol,LDL cholesterol,Cholesterol level,continuous,mmol/liter,Placebo,control,1359,0,0.0,2.08,0.97,2.08±0.97
+NCT03496298,HDL cholesterol,HDL cholesterol,Cholesterol level,continuous,mmol/liter,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,1.12,0.31,1.12±0.31
+NCT03496298,HDL cholesterol,HDL cholesterol,Cholesterol level,continuous,mmol/liter,Placebo,control,1359,0,0.0,1.1,0.31,1.10±0.31
+NCT03496298,Median triglycerides,Median triglycerides (IQR) — mmol/liter,,continuous,mmol/liter,"Efpeglenatide, 4 or 6 mg",treatment,2717,0,0.0,0.0,0.0,1.90 (1.36–2.74)
+NCT03496298,Median triglycerides,Median triglycerides (IQR) — mmol/liter,,continuous,mmol/liter,Placebo,control,1359,0,0.0,0.0,0.0,1.93 (1.40–2.75)
+NCT03496298,Any insulin,Any insulin,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,1720,63.3,0.0,0.0,1720 (63.3)
+NCT03496298,Any insulin,Any insulin,Medication use,categorical,,Placebo,control,1359,840,61.8,0.0,0.0,840 (61.8)
+NCT03496298,Metformin,Metformin,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,1993,73.4,0.0,0.0,1993 (73.4)
+NCT03496298,Metformin,Metformin,Medication use,categorical,,Placebo,control,1359,992,73.0,0.0,0.0,992 (73.0)
+NCT03496298,Sulfonylurea,Sulfonylurea,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,695,25.6,0.0,0.0,695 (25.6)
+NCT03496298,Sulfonylurea,Sulfonylurea,Medication use,categorical,,Placebo,control,1359,341,25.1,0.0,0.0,341 (25.1)
+NCT03496298,SGLT2 inhibitor,SGLT2 inhibitor,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,412,15.2,0.0,0.0,412 (15.2)
+NCT03496298,SGLT2 inhibitor,SGLT2 inhibitor,Medication use,categorical,,Placebo,control,1359,206,15.2,0.0,0.0,206 (15.2)
+NCT03496298,No glucose-lowering drug,No glucose-lowering drug,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,57,2.1,0.0,0.0,57 (2.1)
+NCT03496298,No glucose-lowering drug,No glucose-lowering drug,Medication use,categorical,,Placebo,control,1359,28,2.1,0.0,0.0,28 (2.1)
+NCT03496298,"ACE inhibitor, ARB, or ARN inhibitor","ACE inhibitor, ARB, or ARN inhibitor",Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,2177,80.1,0.0,0.0,2177 (80.1)
+NCT03496298,"ACE inhibitor, ARB, or ARN inhibitor","ACE inhibitor, ARB, or ARN inhibitor",Medication use,categorical,,Placebo,control,1359,1085,79.8,0.0,0.0,1085 (79.8)
+NCT03496298,Beta-blocker,Beta-blocker,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,1795,66.1,0.0,0.0,1795 (66.1)
+NCT03496298,Beta-blocker,Beta-blocker,Medication use,categorical,,Placebo,control,1359,875,64.4,0.0,0.0,875 (64.4)
+NCT03496298,Statin,Statin,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,2202,81.0,0.0,0.0,2202 (81.0)
+NCT03496298,Statin,Statin,Medication use,categorical,,Placebo,control,1359,1092,80.4,0.0,0.0,1092 (80.4)
+NCT03496298,Fibrate,Fibrate,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,233,8.6,0.0,0.0,233 (8.6)
+NCT03496298,Fibrate,Fibrate,Medication use,categorical,,Placebo,control,1359,117,8.6,0.0,0.0,117 (8.6)
+NCT03496298,Acetylsalicylic acid,Acetylsalicylic acid,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,1855,68.3,0.0,0.0,1855 (68.3)
+NCT03496298,Acetylsalicylic acid,Acetylsalicylic acid,Medication use,categorical,,Placebo,control,1359,913,67.2,0.0,0.0,913 (67.2)
+NCT03496298,Other antiplatelet drug,Other antiplatelet drug,Medication use,categorical,,"Efpeglenatide, 4 or 6 mg",treatment,2717,705,25.9,0.0,0.0,705 (25.9)
+NCT03496298,Other antiplatelet drug,Other antiplatelet drug,Medication use,categorical,,Placebo,control,1359,344,25.3,0.0,0.0,344 (25.3)
